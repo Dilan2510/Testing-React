@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`se llama el component CounterApp testing for consumir el maatch en el snapshot>  1`] = `
+<div>
+  <div>
+    <h1>
+      CounterApp
+    </h1>
+    <h2>
+       
+      1
+       
+    </h2>
+    <button>
+      +1
+    </button>
+    <button>
+      -1
+    </button>
+    <button
+      aria-label="button-reset"
+    >
+      Reset
+    </button>
+  </div>
+</div>
+`;
